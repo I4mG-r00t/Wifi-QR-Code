@@ -1,0 +1,1 @@
+A Simple QR code generator for your wifi!
